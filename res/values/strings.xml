@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RetakeRoma Segnala Adesivi</string>
+    <string name="title_activity_main">RetakeRoma-Segnala Adesivi</string>
+    <string name="button_text">Scatta foto</string>
+    <string name="home_text">Perdonate la spartanità dell\'app per il momento, inviate pure suggerimenti su come migliorarla tramite Facebook o nella pagina del Google Play Store</string>
+    <string name="loading_text">Ricerca della posizione corrente per la segnalazione in corso&#8230;</string>
+    
+    
+    <string name="messaggio_errore_recupero_location">Impossibile recuperare la posizione automaticamente, per favore scrivi a mano l\'indirizzo in cui ti trovi:</string>
+    
+
+</resources>
